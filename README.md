@@ -1,4 +1,4 @@
 # jeu_vie
 
 
-Salut les gens
+Jeu de ka vie de conway en utilisant du deep learning
