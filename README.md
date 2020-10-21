@@ -1,4 +1,4 @@
 # jeu_vie
 
 
-Jeu de ka vie de conway en utilisant du deep learning
+Jeu de la vie de Conway en utilisant du deep learning
