@@ -1,4 +1,4 @@
 # jeu_vie
 
 
-Salut les boys 
+Salut les gens
